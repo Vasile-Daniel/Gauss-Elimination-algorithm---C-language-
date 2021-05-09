@@ -1,4 +1,4 @@
-# Gauss-Elimination-algorithm---C-language-
+# Gauss-Elimination-algorithm---C/Python-language-
 
 We want to solve a System of linear equations: Ax = b using "Gauss elimination" method (algorithm). 
 The algorithm is implemented in C language 
